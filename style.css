@@ -1,0 +1,39 @@
+.frame {
+  border: 2px solid black;
+}
+.jumbotron {
+  height: 500px;
+}
+
+.jumboimg {
+  background-image: url(img/surf2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.h1title {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.justify {
+  text-align: left;
+}
+
+.title {
+  font-size: 5em;
+  font-weight: 300;
+}
+
+.testimony {
+  height: auto;
+}
+
+.testi {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
